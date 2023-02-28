@@ -7,4 +7,6 @@ Now that MAUI has released globally, and Xamarin only supported until November 2
 - email: dean.thomas.zhuo@gmail.com
 - facebook: facebook.com/dean.zhuo.16
 - twitter: twitter.com/ZhuoDean
+- small portofilio website: deanzhuo.github.io/RevoUIntroProject/
+
 Thank you!
